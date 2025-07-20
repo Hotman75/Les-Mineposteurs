@@ -19,6 +19,7 @@ Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mine
    ![skip launcher](https://github.com/user-attachments/assets/3212c532-69b1-449f-9bdc-eebe7b76f031)
 
 5. Envoie ton **pseudo Minecraft** à @Hotman pour être ajouté à la **whitelist**.
+Tu peux le trouver ici 👇 :
 
    ![Psuedo](https://github.com/user-attachments/assets/a3174b84-f66e-47d6-897b-0465d7cd4b57)
 
