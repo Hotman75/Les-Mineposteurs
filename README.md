@@ -6,7 +6,7 @@ Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mine
 
 ## ✅ Prérequis
 
-1. Avoir Minecraft Java installé sur ton PC.
+1. Installe Minecraft Java sur ton PC.
 
 2. Installe le launcher **CurseForge** :
    👉 https://download.curseforge.com
@@ -29,7 +29,7 @@ Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mine
 ### 1. Téléchargement
 
 - 🔗 [Télécharger le modpack `.zip`](https://github.com/Hotman75/Les-Mineposteurs/raw/main/Les%20Mineposteurs-1.0.zip)
-- 🎨 [Télécharger le logo du modpack](https://github.com/Hotman75/Les-Mineposteurs/raw/main/minepostor.png)
+- 🎨 [Télécharger le logo du modpack](https://github.com/Hotman75/Les-Mineposteurs/raw/main/minepostor.png) (Clic droit → "Enregistrer la cible du lien sous...")
 
 ### 2. Importation dans CurseForge
 
@@ -40,7 +40,7 @@ Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mine
    ![select zip](https://github.com/user-attachments/assets/3c66a16b-300c-47a6-b722-f4bdf1132922)
 
 3. Une fois le profil installé, clique sur les **3 points** du profil → **"Change Image"**
-4. Choisis le logo téléchargé à l'étape précédente
+4. Choisis le logo téléchargé à l'étape 1
 
    ![logo curseforge](https://github.com/user-attachments/assets/43f1c85b-d001-43b8-b8e1-4e863c006915)
 
@@ -59,8 +59,8 @@ Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mine
 - **V-Sync :** Désactivé
 - **Framerate Max :** Selon la puissance de ton PC
 - **Shaders :**
-  - Actifs par défaut (Iris)
-  - Pour les **désactiver** : Menu principal → Options Vidéo → **Shaders Pack** → **None**
+  - Actifs par défaut
+  - Pour les **désactiver** : Menu principal → Options Vidéo → **Shaders Pack** → **Disabled**
 
    ![vidéo options](https://github.com/user-attachments/assets/343c4e1c-5992-4c33-8141-3eb15f657412)
 
