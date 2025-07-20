@@ -39,11 +39,9 @@ Bienvenue ! Voici comment installer le modpack, rejoindre le serveur, et profite
 
 5. Laisse CurseForge installer les mods. Tu verras alors un nouveau profil apparaître.
 
-6. Clique sur le profil, puis sur les 3 points à droite du nom de profil, et "Change Image"
+6. Clique sur le profil, puis sur les 3 points à droite du nom de profil, "Change Image", et sélectionne le logo télécharger à l'étape 2.
 
 <img width="1054" height="805" alt="image" src="https://github.com/user-attachments/assets/43f1c85b-d001-43b8-b8e1-4e863c006915" />
-
-> Sélectionne le logo télécharger à l'étape 2
 
 ---
 
