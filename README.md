@@ -1,6 +1,6 @@
 # 📘 Les-Mineposteurs - Guide d'installation
 
-Bienvenue ! Voici comment installer notre modpack, rejoindre le serveur, et profiter de l'expérience sans souci. 😄
+Bienvenue ! Voici comment installer le modpack, rejoindre le serveur, et profiter de l'expérience sans souci. 😄
 
 ---
 
