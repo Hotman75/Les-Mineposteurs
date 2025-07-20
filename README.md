@@ -1,100 +1,113 @@
-# 📘 Les-Mineposteurs - Guide d'installation
+# 🎮 Les Mineposteurs – Guide d'installation Minecraft (Java)
 
-Bienvenue ! Voici comment installer le modpack, rejoindre le serveur, et profiter de l'expérience sans souci. 😄
+Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mineposteurs**, rejoindre le serveur, et profiter d'une aventure modée sans prise de tête. 😄
 
 ---
 
-## Prérequis
+## ✅ Prérequis
 
-1. Assure-toi d'avoir la version Java de Minecraft correctement installée, avec Java 21.
+1. Avoir Minecraft Java installé sur ton PC.
 
-2. Télécharge et installe **CurseForge** :
+2. Installe le launcher **CurseForge** :
    👉 https://download.curseforge.com
 
-3. Connecte-toi à CurseForge avec ton compte Minecraft.
+3. Connecte-toi avec ton compte Minecraft (version Java).
 
-4. (Recommandé) Active "Skip Launcher" dans les paramètres Minecraft de CurseForge.
+4. Dans CurseForge :
+   - Va dans les **Settings > Minecraft** et active l'option **"Skip Minecraft Launcher"** *(recommandé)*
 
-<img width="1056" height="773" alt="image" src="https://github.com/user-attachments/assets/3212c532-69b1-449f-9bdc-eebe7b76f031" />
+   ![skip launcher](https://github.com/user-attachments/assets/3212c532-69b1-449f-9bdc-eebe7b76f031)
 
-5. Partage ton Pseudo Minecraft avec Hotman pour être ajouté à la whitelist.
-
-## 📦 Étape 1 – Télécharger le modpack
-
-> Le modpack est fourni sous forme de `.zip` prêt à importer dans CurseForge.
-
-1. Télécharge le fichier `.zip` ici :  
-   🔗 [Les Mineposteurs](https://github.com/Hotman75/Les-Mineposteurs/raw/main/Les%20Mineposteurs-1.0.zip)
-
-2. Enregistre sur ton pc le logo disponible ici :
-   🔗 [Logo](https://github.com/Hotman75/Les-Mineposteurs/raw/main/minepostor.png)
-
-3. Sur la page d'accueil de Minecraft CurseForge, clique sur **"Import"**
-
-<img width="1050" height="810" alt="image" src="https://github.com/user-attachments/assets/6ac0f47c-f3cf-4378-bb6d-007161bbcc62" />
-
-4. Sélectionne le fichier `.zip` du modpack téléchargé
-
-<img width="623" height="477" alt="image" src="https://github.com/user-attachments/assets/3c66a16b-300c-47a6-b722-f4bdf1132922" />
-
-5. Laisse CurseForge installer les mods. Tu verras alors un nouveau profil apparaître.
-
-6. Clique sur le profil, puis sur les 3 points à droite du nom de profil, "Change Image", et sélectionne le logo télécharger à l'étape 2.
-
-<img width="1054" height="805" alt="image" src="https://github.com/user-attachments/assets/43f1c85b-d001-43b8-b8e1-4e863c006915" />
+5. Envoie ton **pseudo Minecraft** à Hotman pour être ajouté à la **whitelist**.
 
 ---
 
-## ⚙️ Étape 2 – Lancer le jeu
+## 📦 Étape 1 – Télécharger et importer le modpack
 
-1. Quand tu es prêt, clique sur **"Play"** pour lancer Minecraft avec le bon profil moddé.
+> Le modpack est distribué dans un fichier `.zip` à importer dans CurseForge.
 
-<img width="1052" height="815" alt="image" src="https://github.com/user-attachments/assets/e1c04826-9ab1-4636-becc-582253ebb626" />
+### 1. Téléchargement
 
-2. Pense à ajuster tes paramètres une fois dans le menu principal du jeu :
+- 🔗 [Télécharger le modpack `.zip`](https://github.com/Hotman75/Les-Mineposteurs/raw/main/Les%20Mineposteurs-1.0.zip)
+- 🎨 [Télécharger le logo du modpack](https://github.com/Hotman75/Les-Mineposteurs/raw/main/minepostor.png)
 
-> Paramètres recommandés :
-  - FOV : Quake Pro
-  - Video Settings :  
-  1. Full Screen
-  2. Vsync désactivé
-  3. Limite de FPS (selon les performances de ton PC et de ton écran)
+### 2. Importation dans CurseForge
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/343c4e1c-5992-4c33-8141-3eb15f657412" />
+1. Ouvre CurseForge → Minecraft → Clique sur **"Create Custom Profile"** > **"Import"**
+2. Sélectionne le `.zip` téléchargé
 
-  4. Par défaut, des shaders sont activés, tu peux les désactiver dans l'onglet "Shaders Pack"
+   ![import](https://github.com/user-attachments/assets/6ac0f47c-f3cf-4378-bb6d-007161bbcc62)
+   ![select zip](https://github.com/user-attachments/assets/3c66a16b-300c-47a6-b722-f4bdf1132922)
 
-  - Controls :
-  1. Sneak: Toggle
-  2. Sprint: Toggle
+3. Une fois le profil installé, clique sur les **3 points** du profil → **"Change Image"**
+4. Choisis le logo téléchargé à l'étape précédente
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/9d0e047a-1824-4c7e-a5a6-0c000b8ae928" />
+   ![logo curseforge](https://github.com/user-attachments/assets/43f1c85b-d001-43b8-b8e1-4e863c006915)
 
-  3. Key Binds: inverse Sneak et Sprint
+---
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d710dcba-a599-4feb-a1d9-8307e18154a2" />
+## ⚙️ Étape 2 – Lancer le jeu et régler les options
+
+1. Clique sur **"Play"** pour lancer le jeu
+
+   ![play](https://github.com/user-attachments/assets/e1c04826-9ab1-4636-becc-582253ebb626)
+
+2. Dans Minecraft, configure les options pour une meilleure expérience :
+
+### 🎥 Vidéo
+- **Fullscreen :** Activé *(Alt + Enter en jeu pour basculer)*
+- **V-Sync :** Désactivé
+- **Framerate Max :** Selon la puissance de ton PC
+- **Shaders :**
+  - Actifs par défaut (Iris)
+  - Pour les **désactiver** : Menu principal → Options Vidéo → **Shaders Pack** → **None**
+
+   ![vidéo options](https://github.com/user-attachments/assets/343c4e1c-5992-4c33-8141-3eb15f657412)
+
+### 🎮 Contrôles
+- **Sneak (Accroupi) :** Toggle
+- **Sprint :** Toggle
+- (Optionnel) Inverse les touches Sneak et Sprint selon tes habitudes
+
+   ![sprint](https://github.com/user-attachments/assets/9d0e047a-1824-4c7e-a5a6-0c000b8ae928)
+   ![keybinds](https://github.com/user-attachments/assets/d710dcba-a599-4feb-a1d9-8307e18154a2)
 
 ---
 
 ## 🌐 Étape 3 – Rejoindre le serveur
 
-1. Va dans **Multiplayer > Add server**
+1. Menu principal → **Multijoueur** → **Ajouter un serveur**
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/31d70876-7360-4ed0-a4b9-c5356087e953" />
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/1aab9f55-bfa0-4606-b1f4-551e5c15faff" />
+   ![multiplayer](https://github.com/user-attachments/assets/31d70876-7360-4ed0-a4b9-c5356087e953)
+   ![add server](https://github.com/user-attachments/assets/1aab9f55-bfa0-4606-b1f4-551e5c15faff)
 
-2. Remplis comme suit :
-   - **Nom du serveur :** Les Mineposteurs
-   - **Adresse IP :** `141.145.218.220`
+2. Renseigne les informations suivantes :
 
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/121217fa-2cc8-4b7d-899a-fad547b67f81" />
+- **Nom du serveur :** `Les Mineposteurs`
+- **Adresse IP :** `141.145.218.220`
 
-3. Clique sur **"Done"**, attends que le serveur soit identifié, puis clique dessus pour te connecter.
+   ![server ip](https://github.com/user-attachments/assets/121217fa-2cc8-4b7d-899a-fad547b67f81)
+
+3. Clique sur **"Terminé"**, puis sélectionne le serveur pour te connecter !
 
 ---
 
-## 🗒️ Règles du serveur
+## 🧾 En cas de bug / erreur
 
-🎉 HAVE FUN !!! 🎉
+- Vérifie que Java 21 est bien disponible dans les paramètres CurseForge :
 
-👋 A bientôt dans le jeu !
+<img width="1049" height="811" alt="image" src="https://github.com/user-attachments/assets/df4d9391-78ff-47a2-9da3-9acd40c7c770" />
+
+- Tu peux consulter les logs du jeu via :  
+  `CurseForge > Profil > 3 points > Open Folder > logs/latest.log`
+- Ping @Hotman sur Discord.
+
+---
+
+## 🧑‍🤝‍🧑 Règles du serveur
+
+🥳 HAVE FUN !!!
+
+---
+
+## 👋 À très bientôt dans le jeu.
