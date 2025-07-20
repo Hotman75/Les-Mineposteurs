@@ -17,7 +17,7 @@ Bienvenue ! Voici comment installer le modpack, rejoindre le serveur, et profite
 
 <img width="1056" height="773" alt="image" src="https://github.com/user-attachments/assets/3212c532-69b1-449f-9bdc-eebe7b76f031" />
 
-5. Partage ton Pseudo Minecraft avec Hotman pour être ajouté à la whitelist?
+5. Partage ton Pseudo Minecraft avec Hotman pour être ajouté à la whitelist.
 
 ## 📦 Étape 1 – Télécharger le modpack
 
