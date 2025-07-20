@@ -26,7 +26,7 @@ Bienvenue ! Voici comment installer le modpack, rejoindre le serveur, et profite
 1. Télécharge le fichier `.zip` ici :  
    🔗 [Les Mineposteurs](https://github.com/Hotman75/Les-Mineposteurs/raw/main/Les%20Mineposteurs-1.0.zip)
 
-2. Télécharge le logo :
+2. Enregistre sur ton pc le logo disponible ici :
    🔗 [Logo](https://github.com/Hotman75/Les-Mineposteurs/raw/main/minepostor.png)
 
 3. Sur la page d'accueil de Minecraft CurseForge, clique sur **"Import"**
