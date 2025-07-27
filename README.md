@@ -21,31 +21,19 @@ Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mine
 5. Envoie ton **pseudo Minecraft** à @Hotman pour être ajouté à la **whitelist**.
 Tu peux le trouver ici 👇 :
 
-   ![Psuedo](https://github.com/user-attachments/assets/a3174b84-f66e-47d6-897b-0465d7cd4b57)
+   ![Pseudo](https://github.com/user-attachments/assets/a3174b84-f66e-47d6-897b-0465d7cd4b57)
 
 ---
 
-## 📦 Étape 1 – Télécharger et importer le modpack
+## 📦 Étape 1 – Télécharger le modpack
 
-> Le modpack est distribué dans un fichier `.zip` à importer dans CurseForge.
+Le modpack est disponible en suivant ce lien :
 
-### 1. Téléchargement
+[Modpack](https://www.curseforge.com/minecraft/modpacks/les-mineposteurs)
 
-- 🔗 [Télécharger le modpack `.zip`](https://github.com/Hotman75/Les-Mineposteurs/raw/main/Les%20Mineposteurs-1.0.zip)
-- 🎨 [Télécharger le logo du modpack](https://github.com/Hotman75/Les-Mineposteurs/raw/main/minepostor.png) (Clic droit → "Enregistrer la cible du lien sous...")
+Clique sur **Install** et laisse-toi rediriger vers le Launcher.
 
-### 2. Importation dans CurseForge
-
-1. Ouvre CurseForge → Minecraft → Clique sur **"Create Custom Profile"** > **"Import"**
-2. Sélectionne le `.zip` téléchargé
-
-   ![import](https://github.com/user-attachments/assets/6ac0f47c-f3cf-4378-bb6d-007161bbcc62)
-   ![select zip](https://github.com/user-attachments/assets/3c66a16b-300c-47a6-b722-f4bdf1132922)
-
-3. Une fois le profil installé, clique sur les **3 points** du profil → **"Change Image"**
-4. Choisis le logo téléchargé à l'étape 1
-
-   ![logo curseforge](https://github.com/user-attachments/assets/43f1c85b-d001-43b8-b8e1-4e863c006915)
+<img width="1281" height="305" alt="image" src="https://github.com/user-attachments/assets/b86937dc-7199-4074-b771-30891330cd59" />
 
 ---
 
