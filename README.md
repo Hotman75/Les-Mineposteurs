@@ -1,4 +1,4 @@
-# 🎮 Les Mineposteurs – Guide d'installation Minecraft (Java)
+# 🎮 Les Mineposteurs – Guide d'installation Minecraft
 
 Bienvenue ! Suis ce guide étape par étape pour installer le modpack **Les Mineposteurs**, rejoindre le serveur, et profiter d'une aventure modée sans prise de tête. 😄
 
