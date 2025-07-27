@@ -33,7 +33,7 @@ Le modpack est disponible en suivant ce lien :
 
 Clique sur **Install** et laisse-toi rediriger vers le Launcher.
 
-<img width="1281" height="305" alt="image" src="https://github.com/user-attachments/assets/b86937dc-7199-4074-b771-30891330cd59" />
+![install](https://github.com/user-attachments/assets/b86937dc-7199-4074-b771-30891330cd59)
 
 ---
 
