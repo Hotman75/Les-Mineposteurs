@@ -55,10 +55,10 @@ Clique sur **Install** et laisse-toi rediriger vers le Launcher.
 
    ![vidéo options](https://github.com/user-attachments/assets/343c4e1c-5992-4c33-8141-3eb15f657412)
 
-### 🎮 Contrôles
-- **Sneak (Accroupi) :** Toggle
+### 🎮 Contrôles (Optionnel)
+- **Sneak :** Toggle
 - **Sprint :** Toggle
-- (Optionnel) Inverse les touches Sneak et Sprint selon tes habitudes
+- Inverse les touches Sneak et Sprint selon tes habitudes
 
    ![sprint](https://github.com/user-attachments/assets/9d0e047a-1824-4c7e-a5a6-0c000b8ae928)
    ![keybinds](https://github.com/user-attachments/assets/d710dcba-a599-4feb-a1d9-8307e18154a2)
@@ -87,7 +87,7 @@ Clique sur **Install** et laisse-toi rediriger vers le Launcher.
 
 - Vérifie que Java 21 est bien disponible dans les paramètres CurseForge :
 
-<img width="1049" height="811" alt="image" src="https://github.com/user-attachments/assets/df4d9391-78ff-47a2-9da3-9acd40c7c770" />
+![Java](https://github.com/user-attachments/assets/df4d9391-78ff-47a2-9da3-9acd40c7c770)
 
 - Tu peux consulter les logs du jeu via :  
   `CurseForge > Profil > 3 points > Open Folder > logs/latest.log`
