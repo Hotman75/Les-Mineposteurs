@@ -29,11 +29,9 @@ Tu peux le trouver ici 👇 :
 
 Le modpack est disponible en suivant ce lien :
 
-[Modpack](https://www.curseforge.com/minecraft/modpacks/les-mineposteurs)
+[Modpack](https://www.curseforge.com/minecraft/modpacks/les-mineposteurs/install/6813749)
 
-Clique sur **Install** et laisse-toi rediriger vers le Launcher.
-
-![install](https://github.com/user-attachments/assets/b86937dc-7199-4074-b771-30891330cd59)
+Accepter la redirection vers le Launcher et attendre que le modpack s'installe.
 
 ---
 
