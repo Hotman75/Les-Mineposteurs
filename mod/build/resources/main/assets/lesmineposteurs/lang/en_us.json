@@ -1,0 +1,13 @@
+{
+  "itemGroup.lesmineposteurs": "Example Mod Tab",
+  "block.lesmineposteurs.example_block": "Example Block",
+  "item.lesmineposteurs.example_item": "Example Item",
+
+  "lesmineposteurs.configuration.title": "Les Mineposteurs Configs",
+  "lesmineposteurs.configuration.section.lesmineposteurs.common.toml": "Les Mineposteurs Configs",
+  "lesmineposteurs.configuration.section.lesmineposteurs.common.toml.title": "Les Mineposteurs Configs",
+  "lesmineposteurs.configuration.items": "Item List",
+  "lesmineposteurs.configuration.logDirtBlock": "Log Dirt Block",
+  "lesmineposteurs.configuration.magicNumberIntroduction": "Magic Number Text",
+  "lesmineposteurs.configuration.magicNumber": "Magic Number"
+}
