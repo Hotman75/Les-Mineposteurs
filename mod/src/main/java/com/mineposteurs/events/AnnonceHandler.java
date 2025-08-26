@@ -93,7 +93,7 @@ public class AnnonceHandler {
         }
 
         String text = textBuilder.toString().trim();
-        String message = authorName + ": " + text;
+        text = text.replace("\n", " ");
 
         MinecraftServer server = level.getServer();
         if (server != null) {

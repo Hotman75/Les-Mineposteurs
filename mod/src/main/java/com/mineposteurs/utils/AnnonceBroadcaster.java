@@ -18,22 +18,13 @@ public class AnnonceBroadcaster {
         List<String> parts = splitText(text, Config.MAX_ACTIONBAR_CHARS.get());
         
         for (ServerPlayer player : server.getPlayerList().getPlayers()) {
-            // Titre vide pour activer le subtitle
-            player.connection.send(new ClientboundSetTitleTextPacket(Component.empty()));
-            
-            // Auteur en subtitle rouge
-            if (!author.equals("Anonyme")) {
-                player.connection.send(new ClientboundSetSubtitleTextPacket(
-                        Component.literal("§c" + author)
-                ));
-            }
             
             // Envoi échelonné des segments
-            sendSegmentsWithDelay(server, player, parts, 0);
+            sendSegmentsWithDelay(server, player, author, parts, 0);
         }
     }
 
-    private static void sendSegmentsWithDelay(MinecraftServer server, ServerPlayer player, List<String> segments, int currentIndex) {
+    private static void sendSegmentsWithDelay(MinecraftServer server, ServerPlayer player, String author, List<String> segments, int currentIndex) {
         if (currentIndex >= segments.size()) {
             return; // Fini
         }
@@ -45,13 +36,18 @@ public class AnnonceBroadcaster {
         
         // Envoyer le segment actuel
         String segment = segments.get(currentIndex);
-        player.connection.send(new ClientboundSetActionBarTextPacket(Component.literal("§a" + segment)));
+        if (currentIndex == 0) {
+            player.connection.send(new ClientboundSetActionBarTextPacket(Component.literal("§c" + author + ": §a" + segment)));
+        }
+        else {
+            player.connection.send(new ClientboundSetActionBarTextPacket(Component.literal("§a" + segment)));
+        }
         
         // Programmer le prochain segment
         if (currentIndex + 1 < segments.size()) {
             CompletableFuture.delayedExecutor(Config.TICKS_BETWEEN_PARTS.get() * 50L, TimeUnit.MILLISECONDS) // 50ms par tick
                 .execute(() -> {
-                    server.execute(() -> sendSegmentsWithDelay(server, player, segments, currentIndex + 1));
+                    server.execute(() -> sendSegmentsWithDelay(server, player, author, segments, currentIndex + 1));
                 });
         }
     }

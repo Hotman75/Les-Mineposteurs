@@ -33,7 +33,7 @@ public class Config {
 
         public static final ModConfigSpec.IntValue MAX_ACTIONBAR_CHARS = BUILDER
                         .comment("Nombre de caractères max pour l'actionbar")
-                        .defineInRange("max_action_bar_chars", 70, 0, 100);
+                        .defineInRange("max_action_bar_chars", 60, 0, 100);
 
         public static final ModConfigSpec.IntValue TICKS_BETWEEN_PARTS = BUILDER
                         .comment("Ticks entre l'affichage des actionbar")
