@@ -1,6 +1,7 @@
 package com.mineposteurs;
 
 import net.neoforged.neoforge.common.ModConfigSpec;
+import java.util.List;
 
 public class Config {
         private static final ModConfigSpec.Builder BUILDER = new ModConfigSpec.Builder();

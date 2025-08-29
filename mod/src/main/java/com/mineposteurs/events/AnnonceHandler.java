@@ -7,7 +7,6 @@ import com.mineposteurs.utils.AnnonceBroadcaster;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.Component;
 import net.minecraft.server.level.ServerLevel;
-import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.WritableBookItem;
 import net.minecraft.world.item.WrittenBookItem;
